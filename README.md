@@ -3,6 +3,10 @@
 Press a shortcut, speak, and your words are typed into whatever app you're using —
 **fully on your own computer**, no cloud, no account, no data leaving your machine.
 
+<p align="center">
+  <img src="docs/img/home.png" alt="Glide — home screen" width="720">
+</p>
+
 ### → [**Download the latest version**](../../releases/latest)
 
 Once installed, Glide **updates itself automatically**.
